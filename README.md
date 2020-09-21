@@ -1,5 +1,5 @@
-# Pathfinder-Dijkstra
-# Author: Kyle Bricker
+# Pathfinder-Dijkstra  
+Author: Kyle Bricker
 
 
 Requirements:  
