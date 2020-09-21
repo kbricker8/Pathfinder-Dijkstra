@@ -2,7 +2,7 @@
 # Author: Kyle Bricker
 #
 #
-# Requirements:
+ Requirements:
 # - Python 3.7
 # - latest version of Pygame
 #
