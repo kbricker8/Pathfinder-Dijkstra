@@ -1,6 +1,7 @@
 # Pathfinder-Dijkstra  
 Author: Kyle Bricker
 
+![](https://github.com/kbricker8/Pathfinder-Dijkstra/blob/master/images/Capture1.png)
 
 Requirements:  
  - Python 3.7  
