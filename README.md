@@ -1,7 +1,9 @@
 # Pathfinder-Dijkstra  
 Author: Kyle Bricker
 
-![](https://github.com/kbricker8/Pathfinder-Dijkstra/blob/master/images/Capture1.png)
+![Alt text](https://github.com/kbricker8/Pathfinder-Dijkstra/blob/eade9a92204aae735e06c6560b261f87fb05ebfa/images/Capture1.PNG)
+![Alt text](https://github.com/kbricker8/Pathfinder-Dijkstra/blob/eade9a92204aae735e06c6560b261f87fb05ebfa/images/Capture2.PNG)
+![Alt text](https://github.com/kbricker8/Pathfinder-Dijkstra/blob/eade9a92204aae735e06c6560b261f87fb05ebfa/images/Capture3.PNG)
 
 Requirements:  
  - Python 3.7  
